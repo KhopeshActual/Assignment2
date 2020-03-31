@@ -27,7 +27,7 @@ public class AgentTotarget : MonoBehaviour
     {
         agent.destination = goal;
 
-       /* if (agent.remainingDistance <= 0.2f)
+        /*if (agent.remainingDistance <= 0.2f)
          {
              Destroy(gameObject);
          }  */

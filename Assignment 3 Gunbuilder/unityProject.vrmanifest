@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.assignment3gunbuilder.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Student\\Documents\\GitHub\\Assignment2\\Assignment 3 Gunbuilder\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Assignment 3 Gunbuilder [Testing]"
+        }
+      }
+    }
+  ]
+}
